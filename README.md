@@ -25,3 +25,6 @@
 ## 安装说明
 
 直接下载该包到本地并解压，在浏览器中打开文件中的index.html 文件即可看到游戏画面；
+
+
+注：本项目参考 https://github.com/MichealShi/ArcadeGameClone_zh.git
